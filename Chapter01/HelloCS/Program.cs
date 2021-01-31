@@ -1,4 +1,4 @@
 ﻿using System;
 
-indt z;
+int z;
 Console.WriteLine("Hello, C#!");
