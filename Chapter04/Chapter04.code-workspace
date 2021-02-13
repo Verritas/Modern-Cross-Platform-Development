@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "Chapter04",
+			"path": "."
+		},
+		{
+			"name": "Debugging",
+			"path": "Debugging"
+		},
+		{
+			"name": "Instrumenting",
+			"path": "Instrumenting"
+		},
+		{
+			"name": "CalculatorLibUnitTests",
+			"path": "CalculatorLibUnitTests"
+		},
+		{
+			"name": "CalculatorLib",
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "PrimeFactors"
+		}
+	]
+}
