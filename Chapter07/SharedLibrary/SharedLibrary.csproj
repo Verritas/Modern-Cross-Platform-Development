@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Packt.Shared.CSdotnet.SharedLibrary</PackageId>
+    <PackageVersion>5.0.0.0</PackageVersion>
+    <Title>C# 9 and .NET 5 Shared Library</Title>
+    <Authors>Mark J Price</Authors>
+    <PackageLicenseExpression>
+    MS-PL
+    </PackageLicenseExpression>
+    <PackageProjectUrl>
+    http://github.com/markjprice/cs9dotnet5
+    </PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
