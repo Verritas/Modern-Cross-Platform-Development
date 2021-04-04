@@ -219,3 +219,5 @@ project.lock.json
 *.feature.cs
 *.feature.xlsx.*
 *.Specs_*.html
+Chapter11/Exersice02/Northwind.db
+Chapter11/WorkingWithEFCore/Northwind.db
