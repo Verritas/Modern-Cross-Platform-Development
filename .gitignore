@@ -221,3 +221,5 @@ project.lock.json
 *.Specs_*.html
 Chapter11/Exersice02/Northwind.db
 Chapter11/WorkingWithEFCore/Northwind.db
+Chapter12/Exercise02/Northwind.db
+Chapter12/LinqWithEFCore/Northwind.db
