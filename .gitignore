@@ -227,3 +227,4 @@ Chapter12/Exercise02/Northwind.db
 Chapter12/LinqWithEFCore/Northwind.db
 Practical Apps/Northwind.db
 Practical Apps/Northwind.sql
+*.db
