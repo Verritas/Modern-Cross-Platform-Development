@@ -1,0 +1,16 @@
+@model Packt.Shared.Category
+@{
+    ViewData["Title"] = "Category Name - " + Model.CategoryName;
+}
+<h2>Product Detail</h2>
+<hr/>
+<div>
+   <dl class="dl-horizontal">
+      <dt>Category ID</dt>
+      <dd>@Model.CategoryId</dd>
+      <dt>Product Name</dt>
+      <dd>@Model.CategoryName</dd>
+      <dt>Description</dt>
+      <dd>@Model.Description</dd>
+   </dl>
+</div>
